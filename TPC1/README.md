@@ -1,4 +1,4 @@
-# 📌 TPC1 - Configuração do Respositório
+# 📌 TPC1 - Configuração do Repositório
 
 ## 📅 Data
 11/02/2025
