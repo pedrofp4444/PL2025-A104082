@@ -1,4 +1,4 @@
-# 📌 TPC1 - Configuração do Repositório
+# 📌 TPC1 - Configuração do Repositório e somador on/off
 
 ## 📅 Data
 11/02/2025
@@ -11,10 +11,10 @@
 ## 📖 Resumo
 Este trabalho consistiu em:
 - Criar o respositório para disponibilizar a resolução dos trabalhos práticos;
-- Definir a estruturação dos conteúdos do responsitório;
+- Definir a estruturação dos conteúdos do repositório;
 - Resolver o problema proposto, para tal, segui o seguinte raciocínio:
   - Criação de duas variáveis: acc(acumular o valor total da soma dos números) e summing(booleano para verificar a possibilidade de acumular o valor);
-  - Leitura do ficheiro de texto linha a linha;
+  - Leitura do ficheiro do stdin linha a linha;
   - Iteração pelos caracteres de cada linha e verificação se é um digito:
     - Se sim, guarda a posição do digito e procura o próximo caracter enquanto for um digito e menor que o tamanho da linha;
     - Se não, converte para inteiro o número preservado entre a posição inicial e atual da iteração;
