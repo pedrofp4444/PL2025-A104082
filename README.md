@@ -1,6 +1,6 @@
 # PL2025-A104082
 
-![Pedro Pereira](guardapedropereira.jpg)  
+<img src="guardapedropereira.jpg" alt="Pedro Pereira" width="200" />  
 
 ## 📌 Identificação  
 - **Nome:** Pedro Figueiredo Pereira

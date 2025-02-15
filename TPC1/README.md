@@ -6,7 +6,7 @@
 ## 👤 Autor
 - **Nome:** Pedro Figueiredo Pereira
 - **Número de Aluno:** A104082
-- ![Pedro Pereira](../guardapedropereira.jpg)
+<img src="../guardapedropereira.jpg" alt="Pedro Pereira" width="200" />
 
 ## 📖 Resumo
 Este trabalho consistiu em:
